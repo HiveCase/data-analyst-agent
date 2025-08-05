@@ -1,1 +1,1 @@
-# data-analyst-agent
+# Data Analyst Agent
