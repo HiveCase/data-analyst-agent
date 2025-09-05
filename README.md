@@ -99,19 +99,6 @@ Dataset hosted on [ecourts](https://judgments.ecourts.gov.in/).
 
 ---
 
-## ✅ Evaluation
-
-The system will be tested automatically using a **20-point rubric** with:
-
-* Structural validation (must return valid JSON).
-* Exact/numeric checks for answers.
-* Case-insensitive text matches.
-* Statistical tolerance checks (±0.001).
-* Visual validation of plots (scatter, regression line, labels, size limits).
-
-Your score = raw evaluation score (no normalization).
-
----
 
 ## 🛠️ Local Development
 
